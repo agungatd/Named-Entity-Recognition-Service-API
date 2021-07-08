@@ -1,2 +1,2 @@
-# Named-Entity-Recognition-Service-API-
-Algoritma's Data Analytics Capstone Project
+# ner-flask
+Create a flask application to serve named entity recognition with spacy 
